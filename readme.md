@@ -65,4 +65,4 @@ El reporte detallado incluye:
 
 Analista de calidad manual/ Automatizador de pruebas/  Estudiante de Especialización en Big Data
 
-** Fecha de actualización:** 21 de Abril 2026
+**Fecha de actualización:** 21 de Abril 2026
